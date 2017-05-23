@@ -1,0 +1,20 @@
+<h1>{{title}}</h1>
+<p>YAYAYA!!!</p>
+<div class="products">
+{{#each products}}
+	<input id="todoClick" type="checkbox" name="{{@key}}">
+	<label for="todoClick">{{this.task}}</label>
+{{/each}}	
+</div>
+
+
+
+
+<div class="product-input">
+<form action="/products-cms" method="post">
+<input type="text" id="ProductTitle" name="productTitle">
+<input type="text" id="ProductDescription" name="productDescription">
+<br>
+<button type="submit">Submit</button>
+</form>
+</div>

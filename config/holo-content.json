@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "holo-hawaii-tours-content",
+  "private_key_id": "794b5056333049872150ca3e7c6fba7e8ce25232",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDV5IZHsceRMGE9\nDUvjDvnOjo7p0bZQ69dY6cpblxcUB0Wo7TrHWHHmlV6h5neEtD8gre+Dej3tSy9t\nJnLo/mwe7WmVRsA1YJ38SHVusl4agwdJDm7LbjqK3CAgeZIo+oB1kzGLU3CdpyXM\nu/Ch9L3DU1u82iKAiQAZqWJpVCD4ZWHsjiVUZFY+tYsIgjxnaQSd7QUypQ80/5QQ\nNxifhEDjDYx03GDeg+ypBXgSHOFA83x9RVJgKprD/uoC5jorILx2tglVCgdC//3h\nGcdm++76jniLiWRNApAcX0kIF6xOSAIKa/UUDgUaoDHz566utZsPAIjTEvxvGPb+\nqSaYICcRAgMBAAECggEAEZh9G29v6sJqHWr3RTSO2a6MlIZLU0OI3FL58f2Z88HY\nDy+E2Fqu9A3G/Svyb8OhiyoD5shVnoHC4wh4sjDL6uITqii/Lc+cROFzwlQraE7t\nzdVsHpFw1h+JsmI4jeUdpY54Uu0y+c/YTOFhHab+krpMH7BqNNy7BLa/K8m0n0/B\nSP6J+bAC06uAo58Cfn0raEoMHMdpFmrhTwBVVhnlBvkHDJndsTvuECPasjam7OjJ\nne1NXI4MTF/BDsLCRmHfe+7SfAhRs5c23LqcXM4ySRheylqkIjQRCmxRM7wa1fDE\nagcde0erb9VLNMxoGZKxLlQ3dPFsSxl+n4CDETZvqQKBgQDu5HDMpKqOR1tItK3k\nfIRK89I1mrzTtJDEqt/jESFRV2QepawN9aK1E59PIvX6iG80J4Wh4IzwRBJGLlG1\nz+6tWFnSEdQJV6TCh72iEQh/XJOdOjxdt0kZ31QV0jKO/Mhj/X3/WxVHj/eiwMG9\nipqNjmLEdWzhug0taP+d7aSClwKBgQDlNcVECT+xMHGjVKM1T1plAtR8A7/Qe1Z6\n2VgkkW4mzpRYXUeTsDvhgh/oYolUBGi/rMIpJTQV0wSpeOnwN2rjMIw3wpZNIFYV\nBEM+h5+302pSb3bR3p49/p4Rnw5+Pv+t/7hDayuj9Kuk2RMIUGLYBN701skGdFHz\nIgiBdiXglwKBgChpACO93xP+QhTEa33xCjfbkr16lWKCctKxzPmOFkK6M7dzcu1R\nldpnnVU3psBgf98kqFg/sdeazDSO9Ud6CvfLsDX2yhVie/5kE9Hsa7GPqXC5Pyjj\nLjxwKLsgOWkynXs8kCm38JuQYOVpEdzMK2Syp0ZwTqDIZh4+Wq8OWfu1AoGBAK+2\nrfh/Yp1ydttwagHXSIQBTGWZ9jVcKCrbbc/y0U/ctCqdr96PjwhM2isrRv3qt2ah\niONECw7kC0HkWOr3gPCT6hphCRotPPC1qNtJ225wG6UAoEU5dXQvOnxlxBWSNC3u\nyRKeGQGC8wbYBtgrz+qsqUNnWQqip6RNJdohed4XAoGAbPnt7HpklkXRv+QAV0mZ\nAQvHntrO8oQ0e2z+3X7BVGT31Dsrq+f2z2UAcTz0FnqWuq2zc7X/7xNsUPjTn9SQ\nf/DdMYOMXVqgouqaYvrvHPsoxalkVrt1d0HyyvPa9C8jqNNpnKk7kA5N3pH0b8L8\ndrQhLLsVNCuTY5vIC9oqyys=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qtwlx@holo-hawaii-tours-content.iam.gserviceaccount.com",
+  "client_id": "110659707249719214030",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qtwlx%40holo-hawaii-tours-content.iam.gserviceaccount.com"
+}

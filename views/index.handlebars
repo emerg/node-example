@@ -1,0 +1,11 @@
+<h1>{{title}}</h1>
+<form action="/todos-route" method="post">
+	<input id="todoInput" type="text" name="todoInputName">
+<br>
+<button type="submit">Submit</button>
+</form>
+<br>
+{{#each todo_list}}
+	<input id="todoClick" type="checkbox" name="{{@key}}">
+	<label for="todoClick">{{this.task}}</label>
+{{/each}}
