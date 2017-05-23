@@ -15,6 +15,14 @@ router.get('/', function(req, res, next) {
 	res.render('products', { title: 'Product Page View Rendered', products: products});
 });
 
+/* GET listing. */
+router.get('/simple-product', function(req, res, next) {
+	// console.log(req);
+
+  	res.render('index', { title: 'Todo app', todo_list: list });
+});
+
+
 // router.post('/', function(req, res, next) {
 
 // 	var dbRef = req.db.ref('/products');
